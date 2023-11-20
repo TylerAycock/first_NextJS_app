@@ -10,7 +10,8 @@ const DetailPage = () => {
 
    const newsId = router.query.newsId
 
-   //send a request to the backend API to fetch news item that matches this newsId
+   //send a request to the backend API 
+   //to fetch news item that matches this newsId
 
     return (
         <h1> Important thing I need to Say</h1>
