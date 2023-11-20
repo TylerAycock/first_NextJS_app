@@ -1,3 +1,5 @@
+//our-domain.com/news
+
 
 const  NewsPage = ( ) => {
     return (
